@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "name":" APPLE",
+        "price": 50,
+        "image": "burger.jpg"
+    },
+    {
+        "id": 2,
+        "name":" EGGPLANT",
+        "price": 25,
+        "image": "baconburgir.jpg"
+    },
+    {
+        "id": 3,
+        "name":" AVOCADO",
+        "price": 90,
+        "image": "footlong.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" CARROTS",
+        "price": 70,
+        "image": "CHICKENFILLETBURGER.jpg"
+    },
+    {
+        "id": 5,
+        "name":" BANANA",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },
+    {
+        "id": 6,
+        "name":" BROCOLLI",
+        "price": 30,
+        "image": "vegan.jpg"
+    },
+    {
+        "id": 7,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },
+    {
+        "id": 8,
+        "name":" ORANGE",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },
+    {
+        "id": 9,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },    {
+        "id": 10,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },    {
+        "id": 11,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },    {
+        "id": 12,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },    {
+        "id": 13,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },    {
+        "id": 14,
+        "name":" DURIAN",
+        "price": 80,
+        "image": "allmeat.jpg"
+    }
+]

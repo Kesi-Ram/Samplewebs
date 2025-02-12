@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name":" BURGER",
+        "price": 50,
+        "image": "burger.jpg"
+    },
+    {
+        "id": 2,
+        "name":" BACON BURGER",
+        "price": 25,
+        "image": "baconburgir.jpg"
+    },
+    {
+        "id": 3,
+        "name":" FOOTLONG",
+        "price": 90,
+        "image": "footlong.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" CHICKENFILLETBURGER",
+        "price": 70,
+        "image": "CHICKENFILLETBURGER.jpg"
+    },
+    {
+        "id": 5,
+        "name":" ALL MEAT",
+        "price": 80,
+        "image": "allmeat.jpg"
+    },
+    {
+        "id": 6,
+        "name":" VEGAN",
+        "price": 30,
+        "image": "vegan.jpg"
+    }
+
+]
